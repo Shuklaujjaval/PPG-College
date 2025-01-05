@@ -1,2 +1,3 @@
-# PPG-College
-This is My 2nd Repository
+# PPG-College-Demo
+This is My 2nd Repository.
+Author-Dinesh Yadav
